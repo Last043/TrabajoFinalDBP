@@ -1,4 +1,6 @@
 # TrabajoFinalDBP
 Integrantes: 
-Samuel Ortega Bustamante 
-Davide Calle Rojas
+
+- Samuel Ortega Bustamante 
+
+- Davide Calle Rojas
